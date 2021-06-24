@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Holy profanity"
-date:   2021-06-21 08:09:40 -0700
-categories: religion gospel christianity hypocrisy translation missions
+date:   2021-06-24 14:50:40 -0700
+categories:
 ---
 I haven't prepared an essay for this, but I wanted to jot down a few ideas before I forgot them.
 
+### Definitions
 In many religions, especially monotheistic ones, there is an idea of *holiness* or "otherness" of (the) deity. Often, *holiness* evokes the idea of "beauty" as well, and this is fine, but the real significance is that any "holy" entity is "other" than humanity and is restricted in some way from interacting with humanity except by ritual that cleanses or prepares humanity to interact with this "other" entity. This usually occurs in a literal or figurative "holy" place, such as a temple or church.
 
 <a name="profane"></a>
@@ -13,6 +14,7 @@ By contrast, anything that is not *holy* is by definition *profane*[<sup>1</sup>
 
 There is an inherent contradiction in religion that isn't often addressed in Western culture (at least not well), and that is the notion of *spirituality*. By *spirituality*, I don't mean "non-physical stuff," but rather "that which is distinct (i.e., holy) from our natural experience." There is necessarily an element of "unknowableness" to spirituality. It necessarily exists outside the natural world (as it is "supernatural"), and it necessarily defies natural law (or it would itself be natural). As such, we cannot test it, and we cannot ever be (factually) certain about it. Truth about spirituality is only available through revelation, and revelation is necessarily *personal.* Anything personal is necessarily *interpreted.* Since humanity is not deity, humans are by definition profane (not necessarily *sinful*). Since humans are the ones interpreting the revelation from earlier, their interpretation necessarily projects a *holy* revelation into a *profane* interpretation. Like any projection from one surface to another unlike surface, it is necessarily distorted. As such, there is some nonzero amount of profanity present in any holy interpretation (that is meaningful to humans). 
 
+### Resolving the dichotomy
 <a name="crux"></a>
 The crux[<sup>3</sup>](#3) of a religion involves answering how profanity relates to holiness (and where the dividing line occurs). In Judaism, physical uncleanness prevents someone from being holy and is therefore profane. In Catholicism, reproduction is a holy duty, so using birth control is profane.
 
@@ -24,10 +26,12 @@ Many conservative theologians hear this as saying, "Oh, now we need to make ever
 
 This does not mean they are perfect, however. While they have now become the temple (so anything they do is "sanctified"), they are still natural (so anything they do is "profane"). This is an impossible union, and it still requires an impossibly full contact between unlike surfaces. This is a supernatural occurrence, but it exists in the natural world, so a fallible projection is required. Therefore, even the most sanctified human living in the natural world still possesses an interpretation of revelation with a necessarily nonzero degree of profanity and therefore a nonzero degree of *errancy*.
 
+### Theological certainty
 Christians who let a theology of *inerrancy* dictate who is going the "right way" try -- diametrically opposing Jesus's example, mind you -- to leave the holy and the profane separate (or even destroy the profane entirely). Instead, a better approach is to let the holy and profane mingle, at least if you believe in the power of the gospel. If you believe that the *holy* purifies the *profane*, let it purify (and be purified).
 
 Christians must engage the profane, but not to end the profanity. Ephesians doesn't say "you who were once far off *must come near* . . . " Jesus didn't say "*Bring* the entire world to hear you preach the gospel." If the barriers are torn down and man is reconciled to God, there is no reason to preach "one way" to live beyond that which Jesus establishes: love. Given "love," there is no "right way" to vote; there is no "right way" to tell stories; there is no "right way" to spend time with people. If "it is finished," let it be finished. If love is the chief standard of interaction, there won't be a lot of prescribing the "right way" to be, and theology will understand that it cannot prescribe; it can only describe.
 
+### Rejecting prescriptivism
 There are plenty of "prescriptions" in the Bible that I don't know how to address. But if Christians want to hold that Scripture is authored by both God and man (and therefore both natural and supernatural), then it, as interpreted revelation, necessarily it is necessarily a nonzero amount of profane and a nonzero amount of holy. For Christians to hold Scripture to be true, they must let it be false as well. It is perhaps meaningless to say that the falsity is in our own interpretation and not in the Word of God itself, so while I am happy to claim that "theologically," it is more meaningful to state the following:
 
 My understanding of any theological idea, no matter how fundamental, is necessarily potentially flawed. And yet, I can still be supernaturally certain of it.
