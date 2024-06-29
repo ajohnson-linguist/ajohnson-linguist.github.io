@@ -2,7 +2,7 @@
 layout: post
 title: "Independence Day"
 date:   2024-06-27 23:50:00 -0700
-categories: america, indigenous, palestine, turtle island, independence, anarchism
+categories: turtle_island
 ---
 
 As Independence Day nears, I want to draw attention to an often overlooked component of America’s history: the countless diverse peoples on whose genocides our nation is founded. We can divide these peoples into two major groups, enslaved Africans and displaced Indigenous Turtle Islanders. 
