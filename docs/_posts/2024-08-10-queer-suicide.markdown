@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why the church kills kids"
-date:   2024-08-04 23:50:00 -0700
+date:   2024-08-10 23:50:00 -0700
 categories: lgbt
 ---
 
