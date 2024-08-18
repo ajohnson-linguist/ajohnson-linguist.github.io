@@ -25,7 +25,6 @@ To quote Jesus, “Do you even fucking hear yourself, you piece of literal subhu
 
 
 
-=====================
 CONTEXT:
 =====================
 
