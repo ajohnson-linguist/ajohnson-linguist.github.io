@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dialogue with a person who embodies evil"
-date:   2024-08-18 23:50:00 -0700
+date:   2024-08-17 23:50:00 -0700
 categories: spirituality
 ---
 
