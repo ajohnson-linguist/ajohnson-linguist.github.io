@@ -27,6 +27,8 @@ To quote Jesus, “Do you even fucking hear yourself, you piece of literal subhu
 
 =====================
 CONTEXT:
+=====================
+
 I posted the following message to my Facebook:
 
 >An important note to my American friends and especially family (anyone who appreciates me visiting them in person) considering a Trump vote, especially if you believe you *must* vote for him because of moral or religious obligations:
