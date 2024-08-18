@@ -80,5 +80,4 @@ The person responded:
 >So you know me, but I am still trying to wrap my head around the anger that has influence your life.
 
 
-
-The following is my reply to them:
+The above text is my reply to them.
