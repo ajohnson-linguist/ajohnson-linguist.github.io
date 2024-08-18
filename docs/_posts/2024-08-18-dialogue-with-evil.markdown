@@ -5,7 +5,7 @@ date:   2024-08-18 23:50:00 -0700
 categories: spirituality
 ---
 
-CONTEXT: I posted the following message to my Facebook:
+I posted the following message to my Facebook:
 
 >An important note to my American friends and especially family (anyone who appreciates me visiting them in person) considering a Trump vote, especially if you believe you *must* vote for him because of moral or religious obligations:
 
@@ -19,10 +19,10 @@ CONTEXT: I posted the following message to my Facebook:
 
 
 
-CONTEXT: I forgot (how to) disable comments. By the time I had figured out, someone had replied. I deleted their comment, but I forgot to screenshot it. In hindsight, I regret that; I wish I could include it. The comment essentially expressed that I was exaggerating my position and asked why a Trump presidency would have been troubling for me: It missed the point entirely *and* did not attempt to clarify any questions *in addition* to belying a clear failure to read and/or respect my entire post.
+I forgot (how to) disable comments. By the time I had figured out, someone had replied. I deleted their comment, but I forgot to screenshot it. In hindsight, I regret that; I wish I could include it. The comment essentially expressed that I was exaggerating my position and asked why a Trump presidency would have been troubling for me: It missed the point entirely *and* did not attempt to clarify any questions *in addition* to belying a clear failure to read and/or respect my entire post.
 
 
-CONTEXT: I replied to the commenter privately with the following:
+I replied to the commenter privately with the following:
 
 >So to answer your questions:
 
@@ -44,7 +44,7 @@ CONTEXT: I replied to the commenter privately with the following:
 
 
 
-CONTEXT: The person responded:
+The person responded:
 
 >The basic thing I was saying was, I don’t think it’s right to force your personal opinions on others by telling them you will refuse relationship with them if they don’t agree with you politically. That was the point that I was making and I believe I made pretty well. I had it checked by another person who got the same gist of what I was saying. I wasn’t trying to say that you should be forced to have different political opinions than you do because I do believe you’re free to express them. I just think it was wrong to guilt trip family, and friends over some thing that you personally believe. That’s certainly the way it came across.
 
@@ -56,7 +56,7 @@ CONTEXT: The person responded:
 
 
 
-MY REPLY:
+The following is my reply to them:
 
 Ok there’s two things I need to address, then, or we’re not even gonna be reading the same book, let alone on the same page. 
 
