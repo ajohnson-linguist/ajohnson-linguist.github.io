@@ -42,7 +42,7 @@ I posted the following message to my Facebook:
 
 
 
-I forgot (how to) disable comments. By the time I had figured out, someone had replied. I deleted their comment, but I forgot to screenshot it. In hindsight, I regret that; I wish I could include it. The comment essentially expressed that I was exaggerating my position and asked why a Trump presidency would have been troubling for me: It missed the point entirely *and* did not attempt to clarify any questions *in addition* to belying a clear failure to read and/or respect my entire post.
+I forgot (how) to disable comments. By the time I had done so, someone had replied. I deleted their comment, but I forgot to screenshot it. In hindsight, I regret that; Meilani says it was tacky to delete it, and I wish I could include it here. The comment essentially expressed that I was exaggerating my position and asked why a Trump presidency would have been troubling for me: It missed the point entirely *and* did not attempt to clarify any questions *in addition* to belying a clear failure to read and/or respect my entire post. Still, I expect that an astute reader can extrapolate the content of the missing comment from the text, style, and tone of the commenter's next reply.
 
 
 I replied to the commenter privately with the following:
