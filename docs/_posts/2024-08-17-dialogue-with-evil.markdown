@@ -28,7 +28,7 @@ To quote Jesus, “Do you even fucking hear yourself, you piece of literal subhu
 CONTEXT:
 =====================
 
-I posted the following message to my Facebook:
+On 9 Aug, I posted the following message to my Facebook:
 
 >An important note to my American friends and especially family (anyone who appreciates me visiting them in person) considering a Trump vote, especially if you believe you *must* vote for him because of moral or religious obligations:
 
@@ -45,7 +45,17 @@ I posted the following message to my Facebook:
 I forgot (how) to disable comments. By the time I had done so, someone had replied. I deleted their comment, but I forgot to screenshot it. In hindsight, I regret that; Meilani says it was tacky to delete it, and I wish I could include it here. The comment essentially expressed that I was exaggerating my position and asked why a Trump presidency would have been troubling for me: It missed the point entirely *and* did not attempt to clarify any questions *in addition* to belying a clear failure to read and/or respect my entire post. Still, I expect that an astute reader can extrapolate the content of the missing comment from the text, style, and tone of the commenter's next reply.
 
 
-I replied to the commenter privately with the following:
+On 12 Aug, I replied to the commenter privately with the following:
+
+>hey so i sent you a reply on whatsapp to your comment, but my account broke as i was sending it so idk if it went through. if it did, feel free to reply. if not, i'm working on rewriting it and you're welcome to send me any questions or concerns directly. 
+
+>be aware, i'm only gonna respond to stuff that sounds good-faith to me. ridicule and "you're being hyperbolic" as a response to "i'm in danger" absolutely read to me as bad-faith, disrespectful, and callous; i hope this was an oversight on your part and not the way you respond to everyone expressing a concern for personal safety. 
+
+>indicating that you otherwise respected me in fact made your response come across as even more disrespectful, because it demonstrated that you decided to overlook your prior positive impression of my character and expression of my personal experience and assert that your (incorrect) assumptions are more valid and reliable because you haven't personally been exposed to the specific threat i'm recounting.
+
+>you publicly attested to rejecting a firsthand account from someone you otherwise consider respectable because it doesn't line up with your personal beliefs about how the world should be. i cannot think of an action more opposed to gospel-centred behaviour than that
+
+On 13 Aug, after I had rewritten my reply, I sent the following:
 
 >So to answer your questions:
 
@@ -67,7 +77,7 @@ I replied to the commenter privately with the following:
 
 
 
-The person responded:
+On 13 Aug, the person responded:
 
 >[Some personal information about why a longer reply will be delayed]
 
