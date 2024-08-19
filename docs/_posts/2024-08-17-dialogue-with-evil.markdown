@@ -43,7 +43,7 @@ On 9 Aug, I posted the following message to my Facebook:
 
 I forgot (how) to disable comments. By the time I had done so, someone had replied. I deleted their comment, but I forgot to screenshot it. In hindsight, I regret that; Meilani says it was tacky to delete it, and I wish I could include it here. The comment essentially expressed that I was exaggerating my position and asked why a Trump presidency would have been troubling for me: It missed the point entirely *and* did not attempt to clarify any questions *in addition* to belying a clear failure to read and/or respect my entire post. Still, I expect that an astute reader can extrapolate the content of the missing comment from the text, style, and tone of the commenter's next reply.
 
-Fun fact: I recently saw a post where people suggested responding to trolls by having an AI summarize and reply to the same message a troll is pretending to misunderstand. I asked ChatGPT the [following](https://chatgpt.com/share/db15ba57-638b-4ebc-8908-40103a6c048e), and I am thrilled with the results.
+Fun fact: I recently saw a post where people suggested responding to trolls by having an AI summarize and reply to the same message a troll is pretending to misunderstand. I asked ChatGPT the [following](https://chatgpt.com/share/80c4cd2b-d6a0-4080-91ad-61ca4c3f1faf), and I am thrilled with the results.
 
 
 On 12 Aug, I replied to the commenter privately with the following:
