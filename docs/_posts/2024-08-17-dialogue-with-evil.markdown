@@ -107,5 +107,5 @@ On 13 Aug, the person responded:
 >So you know me, but I am still trying to wrap my head around the anger that has influence your life.
 
 
-The above text is my reply to them.
+The above text is my (unsent) reply to them.
 -------------
