@@ -54,7 +54,21 @@ On 9 Aug, I posted the following message to my Facebook:
 
 >If you want more details about my reasoning, I can be reached on WhatsApp by my phone number, not by regular SMS. I’m not willing to discuss it in public.
 
-I forgot (how) to disable comments. By the time I had done so, someone had replied. I deleted their comment, but I forgot to screenshot it. In hindsight, I regret that; Meilani says it was tacky to delete it, and I wish I could include it here. The comment essentially expressed that I was exaggerating my position and asked why a Trump presidency would have been troubling for me: It missed the point entirely *and* did not attempt to clarify any questions *in addition* to belying a clear failure to read and/or respect my entire post. Still, I expect that an astute reader can extrapolate the content of the missing comment from the text, style, and tone of the commenter's next reply.
+On 10 Aug, someone replied to the post.
+---------------------------------
+I forgot (how) to disable comments. By the time I had done so, someone had replied. I deleted their comment; Meilani says it was tacky to delete it. Too bad; I said I didn't want to discuss publicly. The comment is presented in full below:
+
+>"Andrew, I'm not fully up to speed on your current doings, but how are you and your wife unable to return home to [City], [State], under a possible Trump presidency? Didn't you guys live here under a previous Trump presidency? Are you a wanted criminal or something? This seems a bit hyperbolic to me.
+
+>Also, when I read this I have a hard time wondering how--if you're not being your usual sarcastic self--your words are not a fulfillment of the straw men of liberal and conservative pundits. 
+
+>1. You are making values based statements and essentially demanding others deny their values to honor your own. Really? How is that not narcissistic and hypocritical?
+
+>2. Have you really reached the conclusion that your life and your private choices are more valuable than the community shared with family and friends who may differ from each other and yourself but aren't selfish enough to revoke their love due to political candidates. That's one of the biggest problems in this country. How are you not furthering that problem and becoming the very thing you seem to want to do away with.
+
+>It's absolutely possible to love others, be humble and have polite and honest conversations with loved ones about--even--sharp disagreements if people don't give into the human tendency to hate others and pride themselves in their own self.
+
+>My advice to everyone is not to stoop to this level. You're always welcome to visit despite apparent differences. I loved working with you and you were one of my favorite coworkers. :)"
 
 Fun fact: I recently saw a post where people suggested responding to trolls by having an AI summarize and reply to the same message a troll is pretending to misunderstand. I asked ChatGPT the [following](https://chatgpt.com/share/80c4cd2b-d6a0-4080-91ad-61ca4c3f1faf), and I am thrilled with the results.
 
